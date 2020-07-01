@@ -1,5 +1,5 @@
-ble-communication
-==================
+gatt-server
+===========
 
 This module helps you create a GATT server in the ESP32 using PlatformIO. It's an example on how to create a BLE profile that contains many services.
 
